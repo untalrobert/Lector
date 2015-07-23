@@ -1,0 +1,24 @@
+2015-05-28 12:42:39.144 RoberlectorQR[5175:980198] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/robespierrelugo/Library/Developer/CoreSimulator/Devices/97DA8C91-E473-4812-BDFB-7E43CD1238B7/data/Containers/Data/Application/4634FAE0-6F3A-4006-BBC1-8994629BE551/Library/Cookies/Cookies.binarycookies
+2015-05-28 12:42:39.928 RoberlectorQR[5175:980198] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-28 12:42:39.928 RoberlectorQR[5175:980198] Multi-tasking -> Device: YES, App: YES
+2015-05-28 12:42:39.968 RoberlectorQR[5175:980198] Unlimited access to network resources
+2015-05-28 12:42:41.551 RoberlectorQR[5175:980198] Resetting plugins due to page load.
+2015-05-28 12:42:42.146 RoberlectorQR[5175:980198] Finished load of: file:///Users/robespierrelugo/Library/Developer/CoreSimulator/Devices/97DA8C91-E473-4812-BDFB-7E43CD1238B7/data/Containers/Bundle/Application/5F54A3CB-5882-4507-8AF0-AA177D552E62/RoberlectorQR.app/www/index.html
+2015-05-28 12:43:20.827 RoberlectorQR[5175:980198] CDVPlugin class CDVBarcodeScanner (pluginName: BarcodeScanner) does not exist.
+2015-05-28 12:43:20.837 RoberlectorQR[5175:980198] ERROR: Plugin 'BarcodeScanner' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-05-28 12:43:20.838 RoberlectorQR[5175:980198] -[CDVCommandQueue executePending] [Line 159] FAILED pluginJSON = ["BarcodeScanner638172932","BarcodeScanner","scan",[]]
+2015-05-28 12:43:24.914 RoberlectorQR[5175:980198] CDVPlugin class CDVBarcodeScanner (pluginName: BarcodeScanner) does not exist.
+2015-05-28 12:43:24.914 RoberlectorQR[5175:980198] ERROR: Plugin 'BarcodeScanner' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-05-28 12:43:24.914 RoberlectorQR[5175:980198] -[CDVCommandQueue executePending] [Line 159] FAILED pluginJSON = ["BarcodeScanner638172933","BarcodeScanner","scan",[]]
+2015-05-28 12:43:28.850 RoberlectorQR[5175:980198] CDVPlugin class CDVBarcodeScanner (pluginName: BarcodeScanner) does not exist.
+2015-05-28 12:43:28.850 RoberlectorQR[5175:980198] ERROR: Plugin 'BarcodeScanner' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-05-28 12:43:28.850 RoberlectorQR[5175:980198] -[CDVCommandQueue executePending] [Line 159] FAILED pluginJSON = ["BarcodeScanner638172934","BarcodeScanner","scan",[]]
+2015-05-28 12:55:52.501 RoberlectorQR[5175:980198] CDVPlugin class CDVBarcodeScanner (pluginName: BarcodeScanner) does not exist.
+2015-05-28 12:55:52.537 RoberlectorQR[5175:980198] ERROR: Plugin 'BarcodeScanner' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-05-28 12:55:52.537 RoberlectorQR[5175:980198] -[CDVCommandQueue executePending] [Line 159] FAILED pluginJSON = ["BarcodeScanner638172935","BarcodeScanner","scan",[]]
+2015-05-28 12:58:09.548 RoberlectorQR[5411:1011035] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/robespierrelugo/Library/Developer/CoreSimulator/Devices/97DA8C91-E473-4812-BDFB-7E43CD1238B7/data/Containers/Data/Application/A58B10CC-6753-47DF-9EB6-840D380077F7/Library/Cookies/Cookies.binarycookies
+2015-05-28 12:58:09.688 RoberlectorQR[5411:1011035] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-28 12:58:09.689 RoberlectorQR[5411:1011035] Multi-tasking -> Device: YES, App: YES
+2015-05-28 12:58:09.700 RoberlectorQR[5411:1011035] Unlimited access to network resources
+2015-05-28 12:58:10.045 RoberlectorQR[5411:1011035] Resetting plugins due to page load.
+2015-05-28 12:58:10.260 RoberlectorQR[5411:1011035] Finished load of: file:///Users/robespierrelugo/Library/Developer/CoreSimulator/Devices/97DA8C91-E473-4812-BDFB-7E43CD1238B7/data/Containers/Bundle/Application/12162616-6749-47BA-B536-D22C383D78D2/RoberlectorQR.app/www/index.html
